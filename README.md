@@ -14,4 +14,4 @@ g++ main.cpp Game.cpp Board.cpp Player.cpp -o main
 
 ## 🎮 Game Preview
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](images/screenshot.png)
